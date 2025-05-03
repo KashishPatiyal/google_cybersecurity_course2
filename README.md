@@ -35,7 +35,7 @@ The goal is to assess the current cybersecurity posture using the **NIST Cyberse
 
 ### 🔖 Course Details
 - **Certification**: [Google Cybersecurity Professional Certificate](https://www.coursera.org/professional-certificates/google-cybersecurity)
-- **Course**: Foundations of Cybersecurity (Course 2)
+- **Course**: Play It Safe: Manage Security Risks (Course 2)
 
 ---
 
